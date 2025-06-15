@@ -1,16 +1,4 @@
-# xanSpot
-
-Este projeto é um aplicativo Android que bloqueia anúncios no Spotify utilizando uma VPN local para filtrar o tráfego de rede.
-
-## Visão Geral
-
-O aplicativo funciona criando uma VPN local no dispositivo, que intercepta e filtra o tráfego para bloquear domínios e URLs conhecidos de anúncios do Spotify. Ele não modifica o aplicativo oficial do Spotify nem requer acesso root, atuando como um firewall de rede.
-
-## Funcionalidades
-
-* Bloqueio de Anúncios: Filtra o tráfego de rede para impedir o carregamento de anúncios.
-* VPN Local: Utiliza a API VpnService do Android.
-* Notificação Persistente: Mantém uma notificação indicando que o serviço VPN está ativo.
+# **xanSpot**
 
 ## Aviso Importante
 
